@@ -4,10 +4,10 @@ import settings
 import game
 
 
-class Window(tk.Frame):  # 1
-    def __init__(self, master=None):  # 2
-        tk.Frame.__init__(self, master)  # 3
-        self.master = master  # 4
+class Window(tk.Frame):  
+    def __init__(self, master=None):  
+        tk.Frame.__init__(self, master)  
+        self.master = master  
         self.window()
 
     def window(self):
