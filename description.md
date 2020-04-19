@@ -6,7 +6,7 @@
 
 ## Подробное описание
 
-- Для проекта использовались три библиотеки: random, numpy, tkinter
+- Для проекта использовались: random, numpy, tkinter
 - Программа состоит из 6 модулей: project, menu, game, settings, records, ending
 - Из модуля project происходит запуск приложения
 - Модуль menu ответственен за создание начального меню с кнопками Quit, Play, Your records, Settings. Quit - выход из игры. Play - запуск игры. Your records - отображение лучшего счета. Settings - изменение размеров поля.
